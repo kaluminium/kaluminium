@@ -2,9 +2,10 @@
 <h1 align="center"><img src="https://media.tenor.com/qjzkA3-z4cIAAAAi/hug-hi.gif" width="55px"> Bienvenue !</h1>
 
 ## A propos
-- 22 ans
-- Développeur Full-stack (pile complète) à ses heures perdues
-- Etudiant en 1ère année à l'école d'ingénieur CPE Lyon
+- <img alt="candle" height="16px" src="https://cdn-icons-png.flaticon.com/512/931/931950.png"> 22 ans
+- <img alt="french-flag" height="10px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png"> Français 
+- <img alt="developper" height="16px" src="https://cdn-icons-png.flaticon.com/512/6840/6840478.png"> Développeur Full-stack (pile complète) à ses heures perdues
+- <img alt="student" height="16px" src="https://cdn-icons-png.flaticon.com/512/5850/5850276.png"> Etudiant en 1ère année à l'école d'ingénieur CPE Lyon
 
 ## Compétences
 
@@ -23,8 +24,8 @@
 
 
 - ### Outils
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Ansible](https://shields.io/badge/ansible-red?logo=ansible&style=for-the-badge)
 
-- ### Contact me
+ ## Contact me
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukalindberg@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/luka-lindberg)
 
