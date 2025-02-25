@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://media.tenor.com/qjzkA3-z4cIAAAAi/hug-hi.gif" width="55px"> Bienvenue !</h1>
 
 ## A propos
-- <img alt="candle" height="16px" src="https://cdn-icons-png.flaticon.com/512/931/931950.png"> 22 ans
+- <img alt="candle" height="16px" src="https://cdn-icons-png.flaticon.com/512/931/931950.png"> 23 ans
 - <img alt="french-flag" height="10px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png"> Français 
 - <img alt="developper" height="16px" src="https://cdn-icons-png.flaticon.com/512/6840/6840478.png"> Développeur Full-stack (pile complète) à ses heures perdues
 - <img alt="student" height="16px" src="https://cdn-icons-png.flaticon.com/512/5850/5850276.png"> Etudiant en 1ère année à l'école d'ingénieur CPE Lyon
