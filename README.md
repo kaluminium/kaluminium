@@ -29,3 +29,8 @@
  ## Contact me
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukalindberg@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/luka-lindberg) [![Discord](https://shields.io/badge/discord-lightgrey?logo=discord&style=for-the-badge)](https://discord.gg/PyuCs7aJwh)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaluminium/kaluminium/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaluminium/kaluminium/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kaluminium/kaluminium/output/github-snake.svg" />
+</picture>
